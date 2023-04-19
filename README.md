@@ -14,4 +14,4 @@ Estou sempre procurando desafios para crescer como desenvolvedora, e estou anima
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaalves05)](https://github.com/anuraghazra/github-readme-stats)
 -[![jessi stats](https://github-readme-stats.vercel.app/api?username=jessicaalves05)](https://github.com/anuraghazra/github-readme-stats)
 
-<a>https://www.linkedin.com/in/jessica-alves-89766a22a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQSLAzhJrQq%2Ba4b%2BLdLvksA%3D%3D</a>
+<a href="linkedin.com/in/jessica-alves-89766a22a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
