@@ -12,7 +12,6 @@ para expandir minhas habilidades e conhecimentos.Atualmente, estou focada em me 
 Estou sempre procurando desafios para crescer como desenvolvedora, e estou animada para ver onde minha jornada na programação me levará."
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaalves05)](https://github.com/anuraghazra/github-readme-stats)
-
 -[![jessi stats](https://github-readme-stats.vercel.app/api?username=jessicaalves05)](https://github.com/anuraghazra/github-readme-stats)
 
 
