@@ -8,7 +8,7 @@ Sou Jéssica Alves,enquanto me desenvolvo como programadora Front-end. Estou apr
 
 além de estar iniciando o aprendizado de 
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-logo"/>
-para expandir minhas habilidades e conhecimentos.Atualmente, estou focada em me desenvolver como programadora e em aprender novas tecnologias.
+Atualmente, estou focada em me desenvolver como programadora e em aprender novas tecnologias.
 Estou sempre procurando desafios para crescer como desenvolvedora, e estou animada para ver onde minha jornada na programação me levará."
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaalves05)](https://github.com/anuraghazra/github-readme-stats)
