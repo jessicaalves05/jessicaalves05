@@ -12,8 +12,7 @@ Nos meus tempos livres, gosto de assistir filmes e séries, ler livros e passar 
 
 
 
-
-![img perfil git](https://user-images.githubusercontent.com/130418259/233683959-49141cce-519f-4281-a2f3-75f6d7ed548b.gif)
+<img src="https://user-images.githubusercontent.com/130418259/233696605-32bfe414-de88-43b2-a90b-7231958a0b7c.gif" alt="img ilustração" width="500" />
 
 
 
