@@ -11,9 +11,16 @@ Nos meus tempos livres, gosto de assistir filmes e séries, ler livros e passar 
 
 
 
+
+
+![img perfil git](https://user-images.githubusercontent.com/130418259/233683959-49141cce-519f-4281-a2f3-75f6d7ed548b.gif)
+
+
+
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaalves05)](https://github.com/anuraghazra/github-readme-stats)
 -[![jessi stats](https://github-readme-stats.vercel.app/api?username=jessicaalves05)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://linkedin.com/in/jessica-alves-89766a22a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
 
   <a href="https://www.instagram.com/jhessykthebest09/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" /></a>
+
