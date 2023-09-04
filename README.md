@@ -1,14 +1,10 @@
-<table style="border: none;">
-  <tr>
-    <td>
-      <img src="https://github.com/jessicaalves05/jessicaalves05/assets/130418259/a28bf657-0186-4f21-9fc9-0ffbd801b5df" alt="img ilustração" width="400px">
-    </td>
-    <td>
-      <h2 style="font-size: 24px;">Olá, sou Jéssica Alves!<br>Seja bem-vindo(a) à minha página ;)</h2>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex;">
+  <img src="https://github.com/jessicaalves05/jessicaalves05/assets/130418259/a28bf657-0186-4f21-9fc9-0ffbd801b5df" alt="img ilustração" width="400px" style="order: 2;">
+  <div style="order: 1;">
+    <h2 style="font-size: 24px;">Olá, sou Jéssica Alves!</h2>
+    <p>Seja bem-vindo(a) à minha página ;)</p>
+  </div>
+</div>
 
 
 
