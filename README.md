@@ -12,7 +12,8 @@ Nos meus tempos livres, gosto de assistir filmes e séries, ler livros e passar 
 
 
 
-<img src="https://readyplayer.me/gallery/64f5376dfe61576b46f79cbb" alt="img ilustração" width="500" />
+<img src="https://github.com/jessicaalves05/jessicaalves05/assets/130418259/a28bf657-0186-4f21-9fc9-0ffbd801b5df" alt="img ilustração" width="" />
+
 
 
 
