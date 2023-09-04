@@ -1,6 +1,6 @@
-<h2>olá 😀
+<h2>olá 
 
-Sou Jéssica Alves,enquanto me desenvolvo como programadora Front-end. Estou aprendendo e criando projetos utilizando :
+
 <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logop" /> ,
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
@@ -12,7 +12,7 @@ Nos meus tempos livres, gosto de assistir filmes e séries, ler livros e passar 
 
 
 
-<img src="https://user-images.githubusercontent.com/130418259/233696605-32bfe414-de88-43b2-a90b-7231958a0b7c.gif" alt="img ilustração" width="500" />
+<img src="https://readyplayer.me/gallery/64f5376dfe61576b46f79cbb" alt="img ilustração" width="500" />
 
 
 
