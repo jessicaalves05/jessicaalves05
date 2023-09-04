@@ -1,4 +1,16 @@
-<h2>Olá,sou Jéssica Alves! Seja bem vindo(a) a minha página ;)
+<table style="border: none;">
+  <tr>
+    <td>
+      <img src="https://github.com/jessicaalves05/jessicaalves05/assets/130418259/a28bf657-0186-4f21-9fc9-0ffbd801b5df" alt="img ilustração" width="400px">
+    </td>
+    <td>
+      <h2 style="font-size: 24px;">Olá, sou Jéssica Alves!<br>Seja bem-vindo(a) à minha página ;)</h2>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 <br>
@@ -12,7 +24,6 @@ Nos meus tempos livres, gosto de assistir filmes e séries, ler livros e passar 
 
 
 
-<img src="https://github.com/jessicaalves05/jessicaalves05/assets/130418259/a28bf657-0186-4f21-9fc9-0ffbd801b5df" alt="img ilustração" width="400px" />
 
 
 
