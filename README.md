@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌻 Tenho 32 anos,sou de São Paulo
+- 🌻 Tenho 32 anos,sou paulista
 - 👩‍💻 Uma desenvolvedora Front-end 
 - 🚀 Atualmente aprendendo Desenvolvimento Web
 - 📚 Leitora nas horas vagas 
