@@ -11,7 +11,7 @@ Bem-vindo(a) à minha página :)</b><img src="https://media.giphy.com/media/hvRJ
 - 👩‍💻 Uma desenvolvedora Front-end 
 - 🚀 Atualmente aprendendo Desenvolvimento Web
 - 📚 Leitora nas horas vagas 
-- ⭐ Atualmente estou aberta a uma oportunidade de estágio ou emprego, este é [meu currículo](https://read.cv/0xabdulkhalid)
+- ⭐ Atualmente estou aberta a uma oportunidade de estágio ou emprego, este é [meu currículo](https://)
 
 <br><br>
 
